@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rambok33
-- 👀 I’m interested in piano,spanish
+- 👀 I’m interested in web(Mern), Devops.
 
 
 <!---
